@@ -1,9 +1,5 @@
 %YAML 1.2
 ---
-# http://www.sublimetext.com/docs/3/syntax.html
-# http://stackoverflow.com/questions/10834765/where-to-find-a-list-of-scopes-for-sublime2-or-textmate
-# http://ruby-doc.org/core-2.2.0/Regexp.html
-
 name: terminfo(5)
 file_extensions:
   - ti
